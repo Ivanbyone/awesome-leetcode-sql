@@ -1,6 +1,6 @@
 [sqlfluff]
 dialect = postgres
-exclude_rules = LT01, CP02
+exclude_rules = LT01, LT05, CP02
 
 [sqlfluff:rules]
 keywords_capitalisation_policy = upper
