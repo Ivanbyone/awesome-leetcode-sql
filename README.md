@@ -39,6 +39,7 @@ Have a good contributing!
     - [183. Customers Who Never Order](./leetcode/easy/183.%20Customers%20Who%20Never%20Order.sql)
     - [511. Game Play Analysis 1](./leetcode/easy/511.%20Game%20Play%20Analysis%201.sql)
     - [577. Employee Bonus](./leetcode/easy/577.%20Employee%20Bonus.sql)
+    - [586. Customer Placing the Largest Number of Orders](./leetcode/easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
     - [595. Big Countries](./leetcode/easy/595.%20Big%20Countries.sql)
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
