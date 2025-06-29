@@ -38,6 +38,7 @@ Have a good contributing!
     - [182. Duplicate Emails](./leetcode/easy/182.%20Duplicate%20Emails.sql)
     - [183. Customers Who Never Order](./leetcode/easy/183.%20Customers%20Who%20Never%20Order.sql)
     - [511. Game Play Analysis 1](./leetcode/easy/511.%20Game%20Play%20Analysis%201.sql)
+    - [577. Employee Bonus](./leetcode/easy/577.%20Employee%20Bonus.sql)
     - [595. Big Countries](./leetcode/easy/595.%20Big%20Countries.sql)
 
 ## License
