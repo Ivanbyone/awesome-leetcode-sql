@@ -40,6 +40,8 @@ Have a good contributing!
     - [511. Game Play Analysis 1](./leetcode/easy/511.%20Game%20Play%20Analysis%201.sql)
     - [577. Employee Bonus](./leetcode/easy/577.%20Employee%20Bonus.sql)
     - [595. Big Countries](./leetcode/easy/595.%20Big%20Countries.sql)
+2. [Medium](./leetcode/medium/)
+    - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
 
 ## License
 
