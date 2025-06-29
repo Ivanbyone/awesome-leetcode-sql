@@ -2,6 +2,7 @@
 
 [![MIT licensed](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![CI](https://github.com/ivanbyone/leetcode-sql/actions/workflows/ci.yml/badge.svg)](https://github.com/Ivanbyone/leetcode-sql//actions)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Description
 
@@ -44,6 +45,7 @@ Have a good contributing!
     - [596. Classes With at Least 5 Students](./leetcode/easy/596.%20Classes%20With%20at%20Least%205%20Students.sql)
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
+    - [184. Department Highest Salary](./leetcode/medium/184.%20Department%20Highest%20Salary.sql)
 
 ## License
 
