@@ -43,6 +43,7 @@ Have a good contributing!
     - [586. Customer Placing the Largest Number of Orders](./leetcode/easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
     - [595. Big Countries](./leetcode/easy/595.%20Big%20Countries.sql)
     - [596. Classes With at Least 5 Students](./leetcode/easy/596.%20Classes%20With%20at%20Least%205%20Students.sql)
+    - [610. Triangle Judgement](./leetcode/easy/610.%20Triangle%20Judgement.sql)
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
     - [184. Department Highest Salary](./leetcode/medium/184.%20Department%20Highest%20Salary.sql)
