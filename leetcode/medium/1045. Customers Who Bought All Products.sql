@@ -31,10 +31,13 @@ Return the result table in any order.
 */
 
 WITH Customer_products AS (
-    SELECT customer_id, COUNT(DISTINCT product_key) as c
+    SELECT
+        customer_id,
+        COUNT(DISTINCT product_key) AS c
     FROM Customer
     GROUP BY customer_id
 )
+
 SELECT customer_id
 FROM Customer_products
 WHERE c = (
