@@ -1,8 +1,8 @@
 # Leetcode (PostgreSQL)
 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 [![MIT licensed](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![CI](https://github.com/ivanbyone/leetcode-sql/actions/workflows/ci.yml/badge.svg)](https://github.com/Ivanbyone/leetcode-sql//actions)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Description
 
@@ -46,6 +46,7 @@ Have a good contributing!
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
     - [184. Department Highest Salary](./leetcode/medium/184.%20Department%20Highest%20Salary.sql)
+    - [1158. Market Analysis 1](./leetcode/medium/1158.%20Market%20Analysis%201.sql)
 
 ## License
 
