@@ -46,6 +46,7 @@ Have a good contributing!
     - [610. Triangle Judgement](./leetcode/easy/610.%20Triangle%20Judgement.sql)
     - [619. Biggest Single Number](./leetcode/easy/619.%20Biggest%20Single%20Number.sql)
     - [620. Not Boring Movies](./leetcode/easy/620.%20Not%20Boring%20Movies.sql)
+    - [1068. Product Sales Analysis I](./leetcode/easy/1068.%20Product%20Sales%20Analysis%20I.sql)
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
     - [184. Department Highest Salary](./leetcode/medium/184.%20Department%20Highest%20Salary.sql)
