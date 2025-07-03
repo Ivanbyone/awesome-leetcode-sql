@@ -50,6 +50,7 @@ Have a good contributing!
     - [1068. Product Sales Analysis I](./leetcode/easy/1068.%20Product%20Sales%20Analysis%20I.sql)
     - [1407. Top Travellers](./leetcode/easy/1407.%20Top%20Travellers.sql)
     - [1484. Group Sold Products By The Date](./leetcode/easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql)
+    - [1693. Daily Leads and Partners](./leetcode/easy/1693.%20Daily%20Leads%20and%20Partners.sql)
     - [1729. Find Followers Count](./leetcode/easy/1729.%20Find%20Followers%20Count.sql)
     - [1741. Find Total Time Spent by Each Employee](./leetcode/easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)
 2. [Medium](./leetcode/medium/)
