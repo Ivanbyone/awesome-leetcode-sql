@@ -51,6 +51,7 @@ Have a good contributing!
     - [1407. Top Travellers](./leetcode/easy/1407.%20Top%20Travellers.sql)
     - [1484. Group Sold Products By The Date](./leetcode/easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql)
     - [1587. Bank Account Summary II](./leetcode/easy/1587.%20Bank%20Account%20Summary%20II.sql)
+    - [1633. Percentage of Users Attended a Contest](./leetcode/easy/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.sql)
     - [1693. Daily Leads and Partners](./leetcode/easy/1693.%20Daily%20Leads%20and%20Partners.sql)
     - [1729. Find Followers Count](./leetcode/easy/1729.%20Find%20Followers%20Count.sql)
     - [1741. Find Total Time Spent by Each Employee](./leetcode/easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)
