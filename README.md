@@ -57,6 +57,7 @@ Have a good contributing!
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
     - [184. Department Highest Salary](./leetcode/medium/184.%20Department%20Highest%20Salary.sql)
+    - [602. Friend Requests II: Who Has the Most Friends](./leetcode/medium/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.sql)
     - [1045. Customers Who Bought All Products](./leetcode/medium/1045.%20Customers%20Who%20Bought%20All%20Products.sql)
     - [1070. Product Sales Analysis III](./leetcode/medium/1070.%20Product%20Sales%20Analysis%203.sql)
     - [1158. Market Analysis 1](./leetcode/medium/1158.%20Market%20Analysis%201.sql)
