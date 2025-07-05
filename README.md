@@ -38,6 +38,7 @@ Have a good contributing!
     - [181. Employees Earning More Than Their Managers](./leetcode/easy/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)
     - [182. Duplicate Emails](./leetcode/easy/182.%20Duplicate%20Emails.sql)
     - [183. Customers Who Never Order](./leetcode/easy/183.%20Customers%20Who%20Never%20Order.sql)
+    - [196. Delete Duplicate Emails](./leetcode/easy/196.%20Delete%20Duplicate%20Emails.sql)
     - [511. Game Play Analysis 1](./leetcode/easy/511.%20Game%20Play%20Analysis%201.sql)
     - [577. Employee Bonus](./leetcode/easy/577.%20Employee%20Bonus.sql)
     - [586. Customer Placing the Largest Number of Orders](./leetcode/easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
