@@ -49,6 +49,7 @@ Have a good contributing!
     - [620. Not Boring Movies](./leetcode/easy/620.%20Not%20Boring%20Movies.sql)
     - [1068. Product Sales Analysis I](./leetcode/easy/1068.%20Product%20Sales%20Analysis%20I.sql)
     - [1327. List the Products Ordered in a Period](./leetcode/easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.sql)
+    - [1378. Replace Employee ID With The Unique Identifier](./leetcode/easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
     - [1407. Top Travellers](./leetcode/easy/1407.%20Top%20Travellers.sql)
     - [1484. Group Sold Products By The Date](./leetcode/easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql)
     - [1587. Bank Account Summary II](./leetcode/easy/1587.%20Bank%20Account%20Summary%20II.sql)
