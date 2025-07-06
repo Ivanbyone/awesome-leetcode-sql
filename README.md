@@ -49,6 +49,7 @@ Have a good contributing!
     - [619. Biggest Single Number](./leetcode/easy/619.%20Biggest%20Single%20Number.sql)
     - [620. Not Boring Movies](./leetcode/easy/620.%20Not%20Boring%20Movies.sql)
     - [1068. Product Sales Analysis I](./leetcode/easy/1068.%20Product%20Sales%20Analysis%20I.sql)
+    - [1075. Project Employees I](./leetcode/easy/1075.%20Project%20Employees%20I.sql)
     - [1327. List the Products Ordered in a Period](./leetcode/easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.sql)
     - [1378. Replace Employee ID With The Unique Identifier](./leetcode/easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
     - [1407. Top Travellers](./leetcode/easy/1407.%20Top%20Travellers.sql)
