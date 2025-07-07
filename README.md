@@ -66,6 +66,7 @@ Have a good contributing!
     - [1693. Daily Leads and Partners](./leetcode/easy/1693.%20Daily%20Leads%20and%20Partners.sql)
     - [1729. Find Followers Count](./leetcode/easy/1729.%20Find%20Followers%20Count.sql)
     - [1741. Find Total Time Spent by Each Employee](./leetcode/easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)
+    - [1789. Primary Department for Each Employee](./leetcode/easy/1789.%20Primary%20Department%20for%20Each%20Employee.sql)
     - [1965. Employees With Missing Information](./leetcode/easy/1965.%20Employees%20With%20Missing%20Information.sql)
     - [1978. Employees Whose Manager Left the Company](./leetcode/easy/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.sql)
     - [2356. Number of Unique Subjects Taught by Each Teacher](./leetcode/easy/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)
