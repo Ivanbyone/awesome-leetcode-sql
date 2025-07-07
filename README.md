@@ -71,6 +71,7 @@ Have a good contributing!
     - [1158. Market Analysis 1](./leetcode/medium/1158.%20Market%20Analysis%201.sql)
     - [1193. Monthly Transactions I](./leetcode/medium/1193.%20Monthly%20Transactions%20I.sql)
     - [1341. Movie Rating](./leetcode/medium/1341.%20Movie%20Rating.sql)
+    - [1907. Count Salary Categories](./leetcode/medium/1907.%20Count%20Salary%20Categories.sql)
 3. [Hard](./leetcode/hard/)
     - [185. Department Top Three Salaries](./leetcode/hard/185.%20Department%20Top%20Three%20Salaries.sql)
 
