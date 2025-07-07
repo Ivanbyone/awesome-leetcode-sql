@@ -54,6 +54,7 @@ Have a good contributing!
     - [1075. Project Employees I](./leetcode/easy/1075.%20Project%20Employees%20I.sql)
     - [1141. User Activity for the Past 30 Days I](./leetcode/easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)
     - [1148. Article Views I](./leetcode/easy/1148.%20Article%20Views%20I.sql)
+    - [1211. Queries Quality and Percentage](./leetcode/easy/1211.%20Queries%20Quality%20and%20Percentage.sql)
     - [1327. List the Products Ordered in a Period](./leetcode/easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.sql)
     - [1378. Replace Employee ID With The Unique Identifier](./leetcode/easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
     - [1407. Top Travellers](./leetcode/easy/1407.%20Top%20Travellers.sql)
