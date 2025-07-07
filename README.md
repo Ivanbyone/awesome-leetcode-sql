@@ -63,6 +63,7 @@ Have a good contributing!
     - [1729. Find Followers Count](./leetcode/easy/1729.%20Find%20Followers%20Count.sql)
     - [1741. Find Total Time Spent by Each Employee](./leetcode/easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)
     - [1965. Employees With Missing Information](./leetcode/easy/1965.%20Employees%20With%20Missing%20Information.sql)
+    - [2356. Number of Unique Subjects Taught by Each Teacher](./leetcode/easy/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
     - [184. Department Highest Salary](./leetcode/medium/184.%20Department%20Highest%20Salary.sql)
