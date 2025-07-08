@@ -80,6 +80,7 @@ Have a good contributing!
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
     - [184. Department Highest Salary](./leetcode/medium/184.%20Department%20Highest%20Salary.sql)
+    - [550. Game Play Analysis IV](./leetcode/medium/550.%20Game%20Play%20Analysis%20IV.sql)
     - [570. Managers with at Least 5 Direct Reports](./leetcode/medium/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)
     - [602. Friend Requests II: Who Has the Most Friends](./leetcode/medium/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.sql)
     - [626. Exchange Seats](./leetcode/medium/626.%20Exchange%20Seats.sql)
