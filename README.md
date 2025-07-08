@@ -70,6 +70,7 @@ Have a good contributing!
     - [1683. Invalid Tweets](./leetcode/easy/1683.%20Invalid%20Tweets.sql)
     - [1693. Daily Leads and Partners](./leetcode/easy/1693.%20Daily%20Leads%20and%20Partners.sql)
     - [1729. Find Followers Count](./leetcode/easy/1729.%20Find%20Followers%20Count.sql)
+    - [1731. The Number of Employees Which Report to Each Employee](./leetcode/easy/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)
     - [1741. Find Total Time Spent by Each Employee](./leetcode/easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)
     - [1789. Primary Department for Each Employee](./leetcode/easy/1789.%20Primary%20Department%20for%20Each%20Employee.sql)
     - [1965. Employees With Missing Information](./leetcode/easy/1965.%20Employees%20With%20Missing%20Information.sql)
