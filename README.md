@@ -88,6 +88,7 @@ Have a good contributing!
     - [1045. Customers Who Bought All Products](./leetcode/medium/1045.%20Customers%20Who%20Bought%20All%20Products.sql)
     - [1070. Product Sales Analysis III](./leetcode/medium/1070.%20Product%20Sales%20Analysis%203.sql)
     - [1158. Market Analysis 1](./leetcode/medium/1158.%20Market%20Analysis%201.sql)
+    - [1164. Product Price at a Given Date](./leetcode/medium/1164.%20Product%20Price%20at%20a%20Given%20Date.sql)
     - [1174. Immediate Food Delivery II](./leetcode/medium/1174.%20Immediate%20Food%20Delivery%20II.sql)
     - [1193. Monthly Transactions I](./leetcode/medium/1193.%20Monthly%20Transactions%20I.sql)
     - [1204. Last Person to Fit in the Bus](./leetcode/medium/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql)
