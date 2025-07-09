@@ -90,6 +90,7 @@ Have a good contributing!
     - [1158. Market Analysis 1](./leetcode/medium/1158.%20Market%20Analysis%201.sql)
     - [1174. Immediate Food Delivery II](./leetcode/medium/1174.%20Immediate%20Food%20Delivery%20II.sql)
     - [1193. Monthly Transactions I](./leetcode/medium/1193.%20Monthly%20Transactions%20I.sql)
+    - [1204. Last Person to Fit in the Bus](./leetcode/medium/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql)
     - [1341. Movie Rating](./leetcode/medium/1341.%20Movie%20Rating.sql)
     - [1907. Count Salary Categories](./leetcode/medium/1907.%20Count%20Salary%20Categories.sql)
     - [1934. Confirmation Rate](./leetcode/medium/1934.%20Confirmation%20Rate.sql)
