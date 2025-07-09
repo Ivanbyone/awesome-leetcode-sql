@@ -4,6 +4,14 @@
 [![MIT licensed](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![CI](https://github.com/ivanbyone/leetcode-sql/actions/workflows/ci.yml/badge.svg)](https://github.com/Ivanbyone/leetcode-sql//actions)
 
+## Navigation
+
+- [Description](#description)
+- [SQL 50](#sql-50-questions)
+- [Task list](#task-list)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Description
 
 📚 LeetCode SQL Solutions in PostgreSQL
@@ -20,16 +28,22 @@ A collection of LeetCode solutions in SQL using PostgreSQL. Includes:
 
 Useful for preparing for technical interviews and improving your SQL skills.
 
-### Contributing
+## SQL 50 Questions
 
-Style guide for contributors:
+![SQL 50 Badge](./public/sql-50.GIF)
 
-1. Add description to all tasks from Leetcode.
-2. Name file pattern: xxx.Task name.sql
-3. All keywords must be uppercase.
-4. For every task create new branch with pattern: task/task-name -> make PR to main.
+### Select
 
-Have a good contributing! 
+- [595. Big Countries](./leetcode/easy/595.%20Big%20Countries.sql)
+- [1148. Article Views I](./leetcode/easy/1148.%20Article%20Views%20I.sql)
+- [1683. Invalid Tweets](./leetcode/easy/1683.%20Invalid%20Tweets.sql)
+
+### Basic Joins
+
+- [1378. Replace Employee ID With The Unique Identifier](./leetcode/easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
+- [1068. Product Sales Analysis I](./leetcode/easy/1068.%20Product%20Sales%20Analysis%20I.sql)
+- [1581. Customer Who Visited but Did Not Make Any Transactions](./leetcode/easy/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)
+- [197. Rising Temperature](./leetcode/easy/197.%20Rising%20Temperature.sql)
 
 ## Task List
 
@@ -99,6 +113,17 @@ Have a good contributing!
     - [1934. Confirmation Rate](./leetcode/medium/1934.%20Confirmation%20Rate.sql)
 3. [Hard](./leetcode/hard/)
     - [185. Department Top Three Salaries](./leetcode/hard/185.%20Department%20Top%20Three%20Salaries.sql)
+
+## Contributing
+
+Style guide for contributors:
+
+1. Add description to all tasks from Leetcode.
+2. Name file pattern: xxx.Task name.sql
+3. All keywords must be uppercase.
+4. For every task create new branch with pattern: task/task-name -> make PR to main.
+
+Have a good contributing!
 
 ## License
 
