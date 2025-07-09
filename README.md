@@ -79,6 +79,7 @@ Have a good contributing!
     - [2356. Number of Unique Subjects Taught by Each Teacher](./leetcode/easy/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
+    - [180. Consecutive Numbers](./leetcode/medium/180.%20Consecutive%20Numbers.sql)
     - [184. Department Highest Salary](./leetcode/medium/184.%20Department%20Highest%20Salary.sql)
     - [550. Game Play Analysis IV](./leetcode/medium/550.%20Game%20Play%20Analysis%20IV.sql)
     - [570. Managers with at Least 5 Direct Reports](./leetcode/medium/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)
