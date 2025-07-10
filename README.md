@@ -120,6 +120,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [619. Biggest Single Number](./leetcode/easy/619.%20Biggest%20Single%20Number.sql)
     - [620. Not Boring Movies](./leetcode/easy/620.%20Not%20Boring%20Movies.sql)
     - [627. Swap Salary](./leetcode/easy/627.%20Swap%20Salary.sql)
+    - [1050. Actors and Directors Who Cooperated At Least Three Times](./leetcode/easy/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql)
     - [1068. Product Sales Analysis I](./leetcode/easy/1068.%20Product%20Sales%20Analysis%20I.sql)
     - [1075. Project Employees I](./leetcode/easy/1075.%20Project%20Employees%20I.sql)
     - [1141. User Activity for the Past 30 Days I](./leetcode/easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)
