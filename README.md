@@ -146,6 +146,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [1741. Find Total Time Spent by Each Employee](./leetcode/easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)
     - [1789. Primary Department for Each Employee](./leetcode/easy/1789.%20Primary%20Department%20for%20Each%20Employee.sql)
     - [1795. Rearrange Products Table](./leetcode/easy/1795.%20Rearrange%20Products%20Table.sql)
+    - [1873. Calculate Special Bonus](./leetcode/easy/1873.%20Calculate%20Special%20Bonus.sql)
     - [1890. The Latest Login in 2020](./leetcode/easy/1890.%20The%20Latest%20Login%20in%202020.sql)
     - [1965. Employees With Missing Information](./leetcode/easy/1965.%20Employees%20With%20Missing%20Information.sql)
     - [1978. Employees Whose Manager Left the Company](./leetcode/easy/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.sql)
