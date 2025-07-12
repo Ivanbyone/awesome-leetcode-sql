@@ -125,6 +125,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [1075. Project Employees I](./leetcode/easy/1075.%20Project%20Employees%20I.sql)
     - [1141. User Activity for the Past 30 Days I](./leetcode/easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)
     - [1148. Article Views I](./leetcode/easy/1148.%20Article%20Views%20I.sql)
+    - [1179. Reformat Department Table](./leetcode/easy/1179.%20Reformat%20Department%20Table.sql)
     - [1211. Queries Quality and Percentage](./leetcode/easy/1211.%20Queries%20Quality%20and%20Percentage.sql)
     - [1251. Average Selling Price](./leetcode/easy/1251.%20Average%20Selling%20Price.sql)
     - [1280. Students and Examinations](./leetcode/easy/1280.%20Students%20and%20Examinations.sql)
