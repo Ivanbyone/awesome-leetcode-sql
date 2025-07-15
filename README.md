@@ -176,6 +176,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [3475. DNA Pattern Recognition](./leetcode/medium/3475.%20DNA%20Pattern%20Recognition.sql)
 3. [Hard](./leetcode/hard/)
     - [185. Department Top Three Salaries](./leetcode/hard/185.%20Department%20Top%20Three%20Salaries.sql)
+    - [3374. First Letter Capitalization II](./leetcode/hard/3374.%20First%20Letter%20Capitalization%20II.sql)
 
 ## Contributing
 
