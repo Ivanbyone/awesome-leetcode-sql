@@ -171,6 +171,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [1204. Last Person to Fit in the Bus](./leetcode/medium/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql)
     - [1321. Restaurant Growth](./leetcode/medium/1321.%20Restaurant%20Growth.sql)
     - [1341. Movie Rating](./leetcode/medium/1341.%20Movie%20Rating.sql)
+    - [1393. Capital Gain/Loss](./leetcode/medium/1393.%20Capital%20Gain&Loss.sql)
     - [1907. Count Salary Categories](./leetcode/medium/1907.%20Count%20Salary%20Categories.sql)
     - [1934. Confirmation Rate](./leetcode/medium/1934.%20Confirmation%20Rate.sql)
     - [3475. DNA Pattern Recognition](./leetcode/medium/3475.%20DNA%20Pattern%20Recognition.sql)
