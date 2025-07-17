@@ -161,6 +161,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [570. Managers with at Least 5 Direct Reports](./leetcode/medium/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)
     - [585. Investments in 2016](./leetcode/medium/585.%20Investments%20in%202016.sql)
     - [602. Friend Requests II: Who Has the Most Friends](./leetcode/medium/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.sql)
+    - [608. Tree Node](./leetcode/medium/608.%20Tree%20Node.sql)
     - [626. Exchange Seats](./leetcode/medium/626.%20Exchange%20Seats.sql)
     - [1045. Customers Who Bought All Products](./leetcode/medium/1045.%20Customers%20Who%20Bought%20All%20Products.sql)
     - [1070. Product Sales Analysis III](./leetcode/medium/1070.%20Product%20Sales%20Analysis%203.sql)
