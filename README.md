@@ -175,6 +175,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [1393. Capital Gain/Loss](./leetcode/medium/1393.%20Capital%20Gain&Loss.sql)
     - [1907. Count Salary Categories](./leetcode/medium/1907.%20Count%20Salary%20Categories.sql)
     - [1934. Confirmation Rate](./leetcode/medium/1934.%20Confirmation%20Rate.sql)
+    - [3220. Odd and Even Transactions](./leetcode/medium/3220.%20Odd%20and%20Even%20Transactions.sql)
     - [3475. DNA Pattern Recognition](./leetcode/medium/3475.%20DNA%20Pattern%20Recognition.sql)
     - [3497. Analyze Subscription Conversion](./leetcode/medium/3497.%20Analyze%20Subscription%20Conversion.sql)
 3. [Hard](./leetcode/hard/)
