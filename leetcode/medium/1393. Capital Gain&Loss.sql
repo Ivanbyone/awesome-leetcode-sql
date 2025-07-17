@@ -39,5 +39,5 @@ SELECT DISTINCT
         FROM Stocks AS s2
         WHERE s2.stock_name = s.stock_name AND s2.operation = 'Buy'
     )
-    AS capital_gain_loss
+    AS capital_gain_loss --noqa: LT02
 FROM Stocks AS s
