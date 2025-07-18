@@ -180,6 +180,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [3497. Analyze Subscription Conversion](./leetcode/medium/3497.%20Analyze%20Subscription%20Conversion.sql)
 3. [Hard](./leetcode/hard/)
     - [185. Department Top Three Salaries](./leetcode/hard/185.%20Department%20Top%20Three%20Salaries.sql)
+    - [601. Human Traffic of Stadium](./leetcode/hard/601.%20Human%20Traffic%20of%20Stadium.sql)
     - [3374. First Letter Capitalization II](./leetcode/hard/3374.%20First%20Letter%20Capitalization%20II.sql)
 
 ## Contributing
