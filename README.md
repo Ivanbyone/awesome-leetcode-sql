@@ -34,6 +34,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
 
 ### Select
 
+- [584. Find Customer Referee](./leetcode/easy/584.%20Find%20Customer%20Referee.sql)
 - [595. Big Countries](./leetcode/easy/595.%20Big%20Countries.sql)
 - [1148. Article Views I](./leetcode/easy/1148.%20Article%20Views%20I.sql)
 - [1683. Invalid Tweets](./leetcode/easy/1683.%20Invalid%20Tweets.sql)
@@ -112,6 +113,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [197. Rising Temperature](./leetcode/easy/197.%20Rising%20Temperature.sql)
     - [511. Game Play Analysis 1](./leetcode/easy/511.%20Game%20Play%20Analysis%201.sql)
     - [577. Employee Bonus](./leetcode/easy/577.%20Employee%20Bonus.sql)
+    - [584. Find Customer Referee](./leetcode/easy/584.%20Find%20Customer%20Referee.sql)
     - [586. Customer Placing the Largest Number of Orders](./leetcode/easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
     - [595. Big Countries](./leetcode/easy/595.%20Big%20Countries.sql)
     - [596. Classes With at Least 5 Students](./leetcode/easy/596.%20Classes%20With%20at%20Least%205%20Students.sql)
