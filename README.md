@@ -34,6 +34,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
 
 ### Select
 
+- [1757. Recyclable and Low Fat Products](./leetcode/easy/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)
 - [584. Find Customer Referee](./leetcode/easy/584.%20Find%20Customer%20Referee.sql)
 - [595. Big Countries](./leetcode/easy/595.%20Big%20Countries.sql)
 - [1148. Article Views I](./leetcode/easy/1148.%20Article%20Views%20I.sql)
@@ -148,6 +149,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [1729. Find Followers Count](./leetcode/easy/1729.%20Find%20Followers%20Count.sql)
     - [1731. The Number of Employees Which Report to Each Employee](./leetcode/easy/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)
     - [1741. Find Total Time Spent by Each Employee](./leetcode/easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)
+    - [1757. Recyclable and Low Fat Products](./leetcode/easy/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)
     - [1789. Primary Department for Each Employee](./leetcode/easy/1789.%20Primary%20Department%20for%20Each%20Employee.sql)
     - [1795. Rearrange Products Table](./leetcode/easy/1795.%20Rearrange%20Products%20Table.sql)
     - [1873. Calculate Special Bonus](./leetcode/easy/1873.%20Calculate%20Special%20Bonus.sql)
