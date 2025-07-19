@@ -123,6 +123,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [1050. Actors and Directors Who Cooperated At Least Three Times](./leetcode/easy/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql)
     - [1068. Product Sales Analysis I](./leetcode/easy/1068.%20Product%20Sales%20Analysis%20I.sql)
     - [1075. Project Employees I](./leetcode/easy/1075.%20Project%20Employees%20I.sql)
+    - [1084. Sales Analysis III](./leetcode/easy/1084.%20Sales%20Analysis%20III.sql)
     - [1141. User Activity for the Past 30 Days I](./leetcode/easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)
     - [1148. Article Views I](./leetcode/easy/1148.%20Article%20Views%20I.sql)
     - [1179. Reformat Department Table](./leetcode/easy/1179.%20Reformat%20Department%20Table.sql)
