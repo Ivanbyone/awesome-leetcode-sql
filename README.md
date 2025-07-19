@@ -153,6 +153,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [1978. Employees Whose Manager Left the Company](./leetcode/easy/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.sql)
     - [2356. Number of Unique Subjects Taught by Each Teacher](./leetcode/easy/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)
     - [3436. Find Valid Emails](./leetcode/easy/3436.%20Find%20Valid%20Emails.sql)
+    - [3465. Find Products with Valid Serial Numbers](./leetcode/easy/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers.sql)
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
     - [180. Consecutive Numbers](./leetcode/medium/180.%20Consecutive%20Numbers.sql)
