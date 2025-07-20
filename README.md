@@ -185,6 +185,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [3220. Odd and Even Transactions](./leetcode/medium/3220.%20Odd%20and%20Even%20Transactions.sql)
     - [3475. DNA Pattern Recognition](./leetcode/medium/3475.%20DNA%20Pattern%20Recognition.sql)
     - [3497. Analyze Subscription Conversion](./leetcode/medium/3497.%20Analyze%20Subscription%20Conversion.sql)
+    - [3601. Find Drivers with Improved Fuel Efficiency](./leetcode/medium/3601.%20Find%20Drivers%20with%20Improved%20Fuel%20Efficiency.sql)
 3. [Hard](./leetcode/hard/)
     - [185. Department Top Three Salaries](./leetcode/hard/185.%20Department%20Top%20Three%20Salaries.sql)
     - [601. Human Traffic of Stadium](./leetcode/hard/601.%20Human%20Traffic%20of%20Stadium.sql)
