@@ -162,6 +162,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [3570. Find Books with No Available Copies](./leetcode/easy/3570.%20Find%20Books%20with%20No%20Available%20Copies.sql)
 2. [Medium](./leetcode/medium/)
     - [176. Second Highest Salary](./leetcode/medium/176.%20Second%20Highest%20Salary.sql)
+    - [177. Nth Highest Salary](./leetcode/medium/177.%20Nth%20Highest%20Salary.sql)
     - [180. Consecutive Numbers](./leetcode/medium/180.%20Consecutive%20Numbers.sql)
     - [184. Department Highest Salary](./leetcode/medium/184.%20Department%20Highest%20Salary.sql)
     - [550. Game Play Analysis IV](./leetcode/medium/550.%20Game%20Play%20Analysis%20IV.sql)
