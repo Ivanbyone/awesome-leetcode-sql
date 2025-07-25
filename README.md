@@ -187,6 +187,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [3421. Find Students Who Improved](./leetcode/medium/3421.%20Find%20Students%20Who%20Improved.sql)
     - [3475. DNA Pattern Recognition](./leetcode/medium/3475.%20DNA%20Pattern%20Recognition.sql)
     - [3497. Analyze Subscription Conversion](./leetcode/medium/3497.%20Analyze%20Subscription%20Conversion.sql)
+    - [3564. Seasonal Sales Analysis](./leetcode/medium/3564.%20Seasonal%20Sales%20Analysis.sql)
     - [3601. Find Drivers with Improved Fuel Efficiency](./leetcode/medium/3601.%20Find%20Drivers%20with%20Improved%20Fuel%20Efficiency.sql)
 3. [Hard](./leetcode/hard/)
     - [185. Department Top Three Salaries](./leetcode/hard/185.%20Department%20Top%20Three%20Salaries.sql)
