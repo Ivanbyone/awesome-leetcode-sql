@@ -194,6 +194,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [185. Department Top Three Salaries](./leetcode/hard/185.%20Department%20Top%20Three%20Salaries.sql)
     - [601. Human Traffic of Stadium](./leetcode/hard/601.%20Human%20Traffic%20of%20Stadium.sql)
     - [3374. First Letter Capitalization II](./leetcode/hard/3374.%20First%20Letter%20Capitalization%20II.sql)
+    - [3451. Find Invalid IP Addresses](./leetcode/hard/3451.%20Find%20Invalid%20IP%20Addresses.sql)
 
 ## Contributing
 
