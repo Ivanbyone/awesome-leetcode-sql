@@ -195,6 +195,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [601. Human Traffic of Stadium](./leetcode/hard/601.%20Human%20Traffic%20of%20Stadium.sql)
     - [3374. First Letter Capitalization II](./leetcode/hard/3374.%20First%20Letter%20Capitalization%20II.sql)
     - [3451. Find Invalid IP Addresses](./leetcode/hard/3451.%20Find%20Invalid%20IP%20Addresses.sql)
+    - [3554. Find Category Recommendation Pairs](./leetcode/hard/3554.%20Find%20Category%20Recommendation%20Pairs.sql)
 
 ## Contributing
 
