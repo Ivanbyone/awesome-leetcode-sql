@@ -192,6 +192,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [3580. Find Consistently Improving Employees](./leetcode/medium/3580.%20Find%20Consistently%20Improving%20Employees.sql)
     - [3586. Find COVID Recovery Patients](./leetcode/medium/3586.%20Find%20COVID%20Recovery%20Patients.sql)
     - [3601. Find Drivers with Improved Fuel Efficiency](./leetcode/medium/3601.%20Find%20Drivers%20with%20Improved%20Fuel%20Efficiency.sql)
+    - [3611. Find Overbooked Employees](./leetcode/medium/3611.%20Find%20Overbooked%20Employees.sql)
 3. [Hard](./leetcode/hard/)
     - [185. Department Top Three Salaries](./leetcode/hard/185.%20Department%20Top%20Three%20Salaries.sql)
     - [262. Trips and Users](./leetcode/hard/262.%20Trips%20and%20Users.sql)
