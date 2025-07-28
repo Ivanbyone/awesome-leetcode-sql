@@ -190,6 +190,7 @@ Useful for preparing for technical interviews and improving your SQL skills.
     - [3521. Find Product Recommendation Pairs](./leetcode/medium/3521.%20Find%20Product%20Recommendation%20Pairs.sql)
     - [3564. Seasonal Sales Analysis](./leetcode/medium/3564.%20Seasonal%20Sales%20Analysis.sql)
     - [3580. Find Consistently Improving Employees](./leetcode/medium/3580.%20Find%20Consistently%20Improving%20Employees.sql)
+    - [3586. Find COVID Recovery Patients](./leetcode/medium/3586.%20Find%20COVID%20Recovery%20Patients.sql)
     - [3601. Find Drivers with Improved Fuel Efficiency](./leetcode/medium/3601.%20Find%20Drivers%20with%20Improved%20Fuel%20Efficiency.sql)
 3. [Hard](./leetcode/hard/)
     - [185. Department Top Three Salaries](./leetcode/hard/185.%20Department%20Top%20Three%20Salaries.sql)
